@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ilias Elgarch
+# Hi, I'm Ilias Elgarch
 
 I'm a **Full Stack Developer student** at **YouCode**.  
 I like building simple and nice websites and improving my coding skills.
